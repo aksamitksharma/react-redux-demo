@@ -1,6 +1,5 @@
 import { BUY_CAKE } from "./cakeConstants"
 
-
 const initialState = {
   numOfCakes: 10
 }
